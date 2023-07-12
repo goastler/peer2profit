@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Peer2Profit
+Comment=SHARE YOUR TRAFFIC AND PROFIT ON IT!
+Exec=/usr/bin/peer2profit
+Terminal=false
+Type=Application
+Icon=peer2profit
+StartupNotify=true
+Categories=System;
+

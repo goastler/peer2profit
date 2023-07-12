@@ -1,0 +1,12 @@
+Package: peer2profit
+Version: 0.48
+Section: unknown
+Priority: optional
+Depends: libxcb-glx0, libx11-xcb1, libxcb-icccm4, libxcb-image0, libxcb-shm0, libxcb-keysyms1, libxcb-randr0, libxcb-render-util0, libxcb-sync1, libxcb-xfixes0, libxcb-render0, libxcb-shape0, libxcb-xinerama0, libxcb-xkb1, libxcb1, libx11-6, libxkbcommon-x11-0,  libxkbcommon0,  libgl1, libxcb-util1, libxau6, libxdmcp6, libbsd0
+Architecture: amd64
+Essential: no
+Installed-Size: 45000
+Maintainer: peer2profit.com <support@peer2profit.com>
+Description: SHARE YOUR TRAFFIC AND PROFIT ON IT!
+
+
